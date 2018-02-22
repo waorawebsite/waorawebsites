@@ -3,6 +3,15 @@ p   {
 
 }
 
+@font-face {
+    font-family: 'aurulent_sansregular';
+    src: url('aurulentsans-regular-webfont.woff2') format('woff2'),
+         url('aurulentsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 ul	{
 	list-style-type: none;
 	background: lightgray;
