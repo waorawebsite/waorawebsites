@@ -69,7 +69,7 @@ li a:hover:not(.active) {
 
 @font-face {
      font-family: "lulo";
-     src: url(../fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff);
+     src: url(../fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff) format('embedded-opentype');
 }
 h1{
   text-allign: center	
