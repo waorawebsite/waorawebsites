@@ -69,8 +69,8 @@ li a:hover:not(.active) {
 
 @font-face {
     font-family: 'lulocleanone';
-    src: url('fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2') format('woff2'),
-         url('fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff') format('woff');
+    src: url('waorawebsites/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2') format('woff2'),
+         url('waorawebsites/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
