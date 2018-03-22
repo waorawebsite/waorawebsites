@@ -6,7 +6,8 @@
   Border-radius:50%;
   border:1px solid gray;
   text-align: center;
-   margin:0 auto;
+  margin:0 auto;
+  vertical-align: middle;
 }
   
 h1 {
