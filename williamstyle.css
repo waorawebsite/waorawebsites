@@ -6,7 +6,7 @@
   Border-radius:50%;
   border:1px solid gray;
   display: flex;
-  justify-content: center;
+  justify-content: middle;
 }
   
 h1 {
