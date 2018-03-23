@@ -5,8 +5,8 @@
   width:100px;
   Border-radius:50%;
   border:1px solid gray;
-  text-align: center;
-  margin: 50px 0 0 50px;
+  display: flex;
+  justify-content: center;
 }
   
 h1 {
