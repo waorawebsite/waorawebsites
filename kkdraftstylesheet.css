@@ -1,0 +1,7 @@
+/* This is the stylesheet for the dropdown bar(s) */
+/* Dropdown bar */
+dropdown-hover {
+  position:relative;
+  display:inline-block;
+  cursor:pointer
+  }
