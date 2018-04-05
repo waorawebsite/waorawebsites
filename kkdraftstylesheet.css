@@ -28,3 +28,6 @@
 .w3-right{
   float:right
 }
+.w3-border{
+  border:1px solid #ccc
+}
