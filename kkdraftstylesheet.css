@@ -1,14 +1,14 @@
 /* This is the stylesheet for the dropdown bar(s) */
 /* Dropdown bar */
-.dropdown-hover {
+.w3-dropdown-hover {
   position:relative;
   display:inline-block;
   cursor:pointer
   }
-.dropdown-content{
+.w3-dropdown-content{
   display:block
 }
-.bar-item{
+.w3-bar-item{
   padding:8px 16px;
   float:left;
   width:auto;
@@ -23,5 +23,8 @@
 .w3-btn.w3-disabled:hover,.w3-btn:disabled:hover{box-shadow:none}
    
 }
-.bar-block{
+.w3-bar-block{
+}
+.w3-right{
+  float:right
 }
