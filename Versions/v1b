@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<title>KawaKawa Cafe</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="kkdraftstylesheet.css">
+<body>
+<ul>
+   <li> </div>
+  <div class="w3-dropdown-hover w3-left">
+    <button class="w3-button w3-black">Dropdown</button>
+    <div class="w3-dropdown-content w3-bar-block w3-border" style="left:0">
+      <a href="#" class="w3-bar-item w3-button">Link 1</a>
+      <a href="#" class="w3-bar-item w3-button">Link 2</a>
+      <a href="#" class="w3-bar-item w3-button">Link 3</a>
+    </div>
+  </div>
+  <div class="w3-clear"></div>
+</div>
+    </li>
+<li>
+  </div>
+  <div class="w3-dropdown-hover w3-left">
+    <button class="w3-button w3-black">Dropdown</button>
+    <div class="w3-dropdown-content w3-bar-block w3-border" style="left:0">
+      <a href="#" class="w3-bar-item w3-button">Link 1</a>
+      <a href="#" class="w3-bar-item w3-button">Link 2</a>
+      <a href="#" class="w3-bar-item w3-button">Lin 3</a>
+    </div>
+  </div>
+  <div class="w3-clear"></div>
+</div>
+</li>
+
+
+</body>
+</html>
