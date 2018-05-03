@@ -14,35 +14,18 @@
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
 }
-
- </div>
-  <div class="w3-dropdown-hover w3-left">
-    <button class="w3-button w3-black">Dropdown</button>
-    <div class="w3-dropdown-content w3-bar-block w3-border" style="left:0">
-      <a href="#" class="w3-bar-item w3-button">Link 1</a>
-      <a href="#" class="w3-bar-item w3-button">Link 2</a>
-      <a href="#" class="w3-bar-item w3-button">Link 3</a>
-    </div>
-  </div>
-  <div class="w3-clear"></div>
-</div>
-  
-  </div>
-  <div class="w3-dropdown-hover w3-left">
-    <button class="w3-button w3-black">Dropdown</button>
-    <div class="w3-dropdown-content w3-bar-block w3-border" style="left:0">
-      <a href="#" class="w3-bar-item w3-button">Link 1</a>
-      <a href="#" class="w3-bar-item w3-button">Link 2</a>
-      <a href="#" class="w3-bar-item w3-button">Lin 3</a>
-    </div>
-  </div>
-  <div class="w3-clear"></div>
-</div>
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 .dropdown {
     float: left;
     overflow: hidden;
 }
-
 .dropdown .dropbtn {
     cursor: pointer;
     font-size: 16px;    
@@ -54,11 +37,9 @@
     font-family: inherit;
     margin: 0;
 }
-
 .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
     background-color: red;
 }
-
 .dropdown-content {
     display: none;
     position: absolute;
@@ -67,7 +48,6 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
-
 .dropdown-content a {
     float: none;
     color: black;
@@ -76,11 +56,9 @@
     display: block;
     text-align: left;
 }
-
 .dropdown-content a:hover {
     background-color: #ddd;
 }
-
 .show {
     display: block;
 }
@@ -121,7 +99,6 @@ toggle between hiding and showing the dropdown content */
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
-
 // Close the dropdown if the user clicks outside of it
 window.mouseover = function(e) {
   if (!e.target.matches('.dropbtn')) {
@@ -134,4 +111,5 @@ window.mouseover = function(e) {
 </script>
 </body>
 </html>
+
 
