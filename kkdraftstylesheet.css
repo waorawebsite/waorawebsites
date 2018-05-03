@@ -12,6 +12,9 @@ a {
 li a:hover {
     background-color: #111;
 }
+li a:hover {
+    background-color: #111;
+}
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
