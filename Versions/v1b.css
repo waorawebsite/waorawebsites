@@ -1,3 +1,27 @@
+.coffebtn
+{
+font-size:100%;
+height:10%;
+     width: 25%
+}
+
+.coffebtn img
+{
+height:80%;
+vertical-align:middle;
+}
+  
+h1 {
+  text-align: center;
+}
+@font-face {
+  font-family: lulocleanone;
+  src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2);
+  src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff);
+}
+h1 {
+  font-family: lulocleanone;
+}
 li {
     display: inline;
 }
