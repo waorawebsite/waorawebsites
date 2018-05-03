@@ -1,11 +1,14 @@
-.coffebtn{
-  background:url() no-repeat;
-  display:block;
-  height:100px;
-  width:100px;
-  Border-radius:50%;
-  border:1px solid gray;
-  margin: auto;
+.coffebtn
+{
+font-size:100%;
+height:10%;
+     width: 25%
+}
+
+.coffebtn img
+{
+height:80%;
+vertical-align:middle;
 }
   
 h1 {
