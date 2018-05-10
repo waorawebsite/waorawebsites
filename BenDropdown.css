@@ -150,6 +150,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-button:hover{color:#000!important;background-color:#ccc!important}
 .w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
+h1 {
+  font-family: LuloCleanOne-Bold;
+}
+   
 @font-face {
     font-family: 'LuloCleanOne-Bold';
     src: url('/Fonts/LuloCleanOne-Bold.woff') format('woff2'),
