@@ -151,17 +151,6 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
 @font-face {
-  font-family: lulocleanone;
-  src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2);
-  src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff);
-}
-h1 {
-  font-family: lulocleanone;
-}
-ul {
-    font-family: LuloCleanOne-Bold;
-}
-@font-face {
     font-family: 'LuloCleanOne-Bold';
     src: url('LuloCleanOne-Bold.woff2') format('woff2'),
         url('LuloCleanOne-Bold.woff') format('woff');
